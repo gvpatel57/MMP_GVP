@@ -1,4 +1,0 @@
-# coding: utf-8
-linspace(0,1,200)
-t= linspace(-pi,pi,100)
-plot(t,cos(t))
